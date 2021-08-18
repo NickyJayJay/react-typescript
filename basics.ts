@@ -41,3 +41,8 @@ let people: {
     age: number;
 }[];
 
+// Type inference
+
+let course: string = 'React - The Complete Guide';
+
+// course = 12341;
